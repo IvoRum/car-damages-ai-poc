@@ -1,70 +1,37 @@
 {
   "main": {
-    "id": "e2e67c50ac9c6a44",
+    "id": "4f3c23634098ca96",
     "type": "split",
     "children": [
       {
-        "id": "96a2750e68cf8dbb",
+        "id": "0b7043299a19ac75",
         "type": "tabs",
         "children": [
           {
-            "id": "312e1a31aa84ee0d",
+            "id": "62864e078440e962",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "cbe36614634daa2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Point.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Main Point"
-            }
-          },
-          {
-            "id": "4d5b865cea9f9427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Write up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Write up"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2b81140a65e48b38",
+    "id": "65124610ba2c0d48",
     "type": "split",
     "children": [
       {
-        "id": "badafd1864d0817d",
+        "id": "c3e75f7e2fd4745c",
         "type": "tabs",
         "children": [
           {
-            "id": "c9f826516611576f",
+            "id": "95617992d8a9d114",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +44,7 @@
             }
           },
           {
-            "id": "a7734d585dafda56",
+            "id": "fefe28c5581bc967",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +61,7 @@
             }
           },
           {
-            "id": "5acc0a2d3fbfb03c",
+            "id": "d271c0899ad20169",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -110,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "6527c8103425c0bf",
+    "id": "80e9903ae2f7fa28",
     "type": "split",
     "children": [
       {
-        "id": "3c2c9eec4fac33e7",
+        "id": "44b93e07180fb9e1",
         "type": "tabs",
         "children": [
           {
-            "id": "9c0d5ad193234640",
+            "id": "38e0c65158b7c190",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Write up"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "55f12809e54bb74a",
+            "id": "d7e4d67847f24b6c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "6f1ba50324b97dcd",
+            "id": "f2b222914d1933cf",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,18 +131,17 @@
             }
           },
           {
-            "id": "8c600d0ab5d6bc2e",
+            "id": "2604f891e66aa087",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           }
         ]
@@ -197,10 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d5b865cea9f9427",
-  "lastOpenFiles": [
-    "Main Point.md",
-    "Write up.md",
-    "Welcome.md"
-  ]
+  "active": "62864e078440e962",
+  "lastOpenFiles": []
 }
