@@ -1,0 +1,63 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python-specific files
+*.pyo
+*.pyd
+
+# mypy cache
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest cache
+.pytest_cache/
+
+# coverage reports
+htmlcov/
+.coverage
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# FastAPI uploaded files (if you store uploads locally)
+uploads/
+
+# dotenv environment variables file
+.env
+
+# Any other config or credentials
+*.env
+
+# Python profiler
+.prof
+
